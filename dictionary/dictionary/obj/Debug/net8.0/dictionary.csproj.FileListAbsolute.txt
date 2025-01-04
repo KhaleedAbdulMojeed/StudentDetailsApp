@@ -1,0 +1,4 @@
+C:\Users\TOSHIBA\Desktop\Project\dictionary\dictionary\obj\Debug\net8.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Project\dictionary\dictionary\obj\Debug\net8.0\dictionary.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Project\dictionary\dictionary\obj\Debug\net8.0\dictionary.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Project\dictionary\dictionary\obj\Debug\net8.0\dictionary.csproj.CoreCompileInputs.cache
